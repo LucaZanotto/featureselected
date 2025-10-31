@@ -1,0 +1,95 @@
+SI Stance Time
+Swing time DX
+Swing time SX
+SI Swing Time
+Cadence
+Double supp. time Fw Dx %
+Double supp. time Fx Sx %
+SI Double supp. Time
+Step length DX % Heigth
+Step length SX % Heigth
+SI Step length
+SI Stride length
+Step width
+Velocity DX
+R-Pelvic Obliquity min
+R-Pelvic Obliquity ROM
+L-Pelvic Tilt ROM
+R-Pelvic Tilt min
+R-Pelvic Tilt ROM
+SI Pelvic Tilt ROM
+L-Hip Ab-Adduction max
+R-Hip Ab-Adduction max
+R-Hip Ab-Adduction min
+SI Hip Ab-Adduction ROM
+L-Hip Flex-Extension min
+L-Hip Flex-Extension ROM
+L-Hip Flex-Extension at initial contact
+R-Hip Flex-Extension min
+R-Hip Flex-Extension ROM
+R-Hip Flex-Extension at initial contact
+SI Hip Flex-Extension ROM
+R-Hip Rotation ROM
+L-Knee Flex-Extension max
+L-Knee Flex-Extension min
+L-Knee Flex-Extension ROM
+L-Knee Flex-Extension at initial contact
+R-Knee Flex-Extension max
+R-Knee Flex-Extension min
+R-Knee Flex-Extension ROM
+R-Knee Flex-Extension at initial contact
+SI Knee Flex-Extension ROM
+L-Ankle Dorsi-Plantarflex ROM
+R-Ankle Dorsi-Plantarflex max
+R-Ankle Dorsi-Plantarflex ROM
+SI Ankle Dorsi-Plantarflex ROM
+L-Foot Progression Angle min
+R-Foot Progression Angle min
+R-Foot Progression Angle ROM
+R-Hip Flex-Extension Moment max
+R-Knee Flex-Extension Moment max
+L-Knee Flex-Extension Moment max
+R-Ankle Dorsi-Plantarflex Moment max
+L-Ankle Dorsi-Plantarflex Moment max
+R-Hip Power max
+L-Hip Power max
+R-Knee Power max
+R-Ankle Power max
+L-Ankle Power max
+Fore-Aft Shear P.2 max
+Fore-Aft Shear P.1 max
+Medial-Lateral Shear P.2 max
+Medial-Lateral Shear P.1 max
+Vertical Force P.2 max
+Vertical Force P.1 max
+SI Vertical Force max
+Ankle Dorsi-Plantarflex corr
+Ankle Dorsi-Plantarflex nRMSE
+Ankle Dorsi-Plantarflex DTW
+Ankle Dorsi-Plantarflex Moment corr
+Ankle Dorsi-Plantarflex Moment nRMSE
+Ankle Dorsi-Plantarflex Moment DTW
+Ankle Power corr
+Ankle Power DTW
+Foot Progression Angle corr
+Foot Progression Angle nRMSE
+Foot Progression Angle DTW
+Fore-Aft Shear corr
+Hip Ab-Adduction corr
+Hip Ab-Adduction nRMSE
+Hip Power nRMSE
+Knee Flex-Extension Moment corr
+Pelvic Rotation nRMSE
+Pelvic Tilt nRMSE
+Pelvic Tilt DTW
+Vertical Force corr
+Vertical Force DTW
+PPI_P2_over_total_pct
+Timing_P3_L_ankle_pct
+Work_pos_R_ankle
+Work_pos_L_ankle
+Work_pos_R_knee
+Work_neg_R_knee
+Work_pos_R_hip
+Work_neg_R_hip
+LoadingRate_VGRF_P1
