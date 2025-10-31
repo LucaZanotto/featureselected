@@ -1,0 +1,55 @@
+SI Stance Time
+SI Double supp. Time
+Step length DX % Heigth
+SI Step length
+Step width
+R-Pelvic Obliquity max
+L-Hip Ab-Adduction max
+R-Hip Flex-Extension ROM
+R-Hip Flex-Extension at initial contact
+SI Hip Flex-Extension ROM
+L-Hip Rotation max
+R-Hip Rotation max
+R-Hip Rotation ROM
+L-Knee Flex-Extension at initial contact
+L-Ankle Dorsi-Plantarflex ROM
+R-Ankle Dorsi-Plantarflex max
+L-Foot Progression Angle min
+R-Foot Progression Angle min
+R-Hip Flex-Extension Moment max
+L-Hip Flex-Extension Moment max
+L-Knee Flex-Extension Moment max
+R-Ankle Dorsi-Plantarflex Moment max
+L-Ankle Dorsi-Plantarflex Moment max
+L-Hip Power max
+R-Knee Power max
+L-Ankle Power max
+SI Vertical Force max
+Ankle Dorsi-Plantarflex corr
+Ankle Dorsi-Plantarflex DTW
+Ankle Dorsi-Plantarflex Moment corr
+Foot Progression Angle corr
+Hip Ab-Adduction corr
+Hip Flex-Extension DTW
+Hip Flex-Extension Moment corr
+Hip Flex-Extension Moment DTW
+Hip Power DTW
+Hip Rotation corr
+Knee Flex-Extension corr
+Knee Power corr
+Knee Power DTW
+Medial-Lateral Shear nRMSE
+Pelvic Rotation nRMSE
+Pelvic Tilt DTW
+Vertical Force DTW
+Imp_AP_prop_P1
+Imp_AP_prop_P2
+Imp_AP_brake_P2
+Timing_P3_R_ankle_pct
+Work_pos_R_ankle
+Work_pos_L_ankle
+Work_neg_L_ankle
+Work_pos_R_knee
+Work_neg_R_knee
+Work_neg_L_knee
+Work_neg_R_hip
