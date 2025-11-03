@@ -1,85 +1,30 @@
-Stance time SX
-SI Stance Time
-Swing time SX
-SI Swing Time
-Double supp. time Fw Dx %
-Double supp. time Fx Sx %
-SI Double supp. Time
-Step length DX % Heigth
 Step length SX % Heigth
-SI Step length
 SI Stride length
 Step width
-R-Pelvic Obliquity min
-R-Pelvic Obliquity ROM
 R-Pelvic Tilt min
 SI Pelvic Tilt ROM
-L-Hip Ab-Adduction max
-L-Hip Ab-Adduction ROM
-R-Hip Ab-Adduction max
-R-Hip Ab-Adduction min
-SI Hip Ab-Adduction ROM
-L-Hip Flex-Extension min
-L-Hip Flex-Extension ROM
-L-Hip Flex-Extension at initial contact
-R-Hip Flex-Extension min
-R-Hip Flex-Extension ROM
 R-Hip Flex-Extension at initial contact
-SI Hip Flex-Extension ROM
-L-Hip Rotation max
-R-Hip Rotation max
 R-Hip Rotation ROM
-L-Knee Flex-Extension max
-L-Knee Flex-Extension min
 L-Knee Flex-Extension ROM
 L-Knee Flex-Extension at initial contact
-R-Knee Flex-Extension max
-R-Knee Flex-Extension min
-R-Knee Flex-Extension ROM
-SI Knee Flex-Extension ROM
 L-Ankle Dorsi-Plantarflex min
-L-Ankle Dorsi-Plantarflex ROM
-R-Ankle Dorsi-Plantarflex max
-R-Ankle Dorsi-Plantarflex ROM
-SI Ankle Dorsi-Plantarflex ROM
-L-Foot Progression Angle min
-R-Foot Progression Angle min
-R-Foot Progression Angle ROM
-R-Hip Flex-Extension Moment max
-R-Knee Flex-Extension Moment max
-L-Knee Flex-Extension Moment max
-R-Ankle Dorsi-Plantarflex Moment max
-L-Ankle Dorsi-Plantarflex Moment max
-L-Hip Power max
-R-Knee Power max
+R-Ankle Dorsi-Plantarflex min
+R-Ankle Dorsi-Plantarflex at initial contact
 L-Ankle Power max
 Medial-Lateral Shear P.2 max
 Medial-Lateral Shear P.1 max
-Vertical Force P.2 max
-Vertical Force P.1 max
-SI Vertical Force max
 Ankle Dorsi-Plantarflex corr
-Ankle Dorsi-Plantarflex DTW
-Ankle Dorsi-Plantarflex Moment corr
-Ankle Power DTW
 Foot Progression Angle corr
-Hip Ab-Adduction DTW
 Hip Flex-Extension corr
-Hip Power nRMSE
+Hip Flex-Extension Moment corr
 Knee Flex-Extension corr
-Medial-Lateral Shear DTW
 Pelvic Tilt nRMSE
 Pelvic Tilt DTW
 Vertical Force corr
 Vertical Force DTW
 Imp_AP_brake_P2
-PPI_P2_over_total_pct
 Timing_P3_L_ankle_pct
 Work_pos_R_ankle
-Work_pos_L_ankle
-Work_pos_R_knee
 Work_neg_R_knee
-Work_pos_L_knee
-Work_pos_R_hip
 Work_neg_R_hip
 LoadingRate_VGRF_P1

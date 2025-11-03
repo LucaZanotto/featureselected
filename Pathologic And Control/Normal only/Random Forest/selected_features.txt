@@ -1,68 +1,28 @@
-Stance time DX
-Stance time SX
-SI Stance Time
-Swing time DX
-SI Swing Time
-Cadence
-Double supp. time Fw Dx %
 Double supp. time Fx Sx %
-Step length DX % Heigth
 SI Step length
-Stride length DX % Height
 Step width
-R-Pelvic Obliquity max
-L-Pelvic Tilt min
-L-Pelvic Tilt ROM
-R-Pelvic Tilt ROM
-R-Pelvic Tilt at initial contact
-R-Hip Ab-Adduction ROM
-L-Hip Flex-Extension max
-L-Hip Flex-Extension min
-R-Hip Flex-Extension max
-R-Hip Flex-Extension min
+Velocity DX
+R-Hip Flex-Extension ROM
 R-Hip Flex-Extension at initial contact
-SI Hip Flex-Extension ROM
 R-Hip Rotation ROM
 L-Knee Flex-Extension max
-L-Knee Flex-Extension min
+L-Knee Flex-Extension ROM
 L-Knee Flex-Extension at initial contact
 R-Knee Flex-Extension max
-R-Knee Flex-Extension ROM
 R-Knee Flex-Extension at initial contact
-SI Knee Flex-Extension ROM
-R-Ankle Dorsi-Plantarflex max
 R-Ankle Dorsi-Plantarflex ROM
-L-Foot Progression Angle max
-L-Foot Progression Angle min
-L-Foot Progression Angle at initial contact
-R-Foot Progression Angle ROM
-SI Foot Progression Angle ROM
-R-Hip Flex-Extension Moment max
 L-Ankle Dorsi-Plantarflex Moment max
-R-Knee Power max
-R-Ankle Power max
-L-Ankle Power max
-Fore-Aft Shear P.2 max
 Medial-Lateral Shear P.2 max
 Medial-Lateral Shear P.1 max
-Vertical Force P.2 max
 SI Vertical Force max
 Ankle Dorsi-Plantarflex corr
 Ankle Dorsi-Plantarflex nRMSE
-Ankle Dorsi-Plantarflex Moment corr
 Ankle Dorsi-Plantarflex Moment nRMSE
-Ankle Power corr
-Ankle Power nRMSE
 Foot Progression Angle corr
-Foot Progression Angle nRMSE
-Foot Progression Angle DTW
-Fore-Aft Shear corr
-Hip Rotation corr
-Knee Power corr
+Hip Rotation nRMSE
 Medial-Lateral Shear corr
 Pelvic Rotation nRMSE
 Pelvic Rotation DTW
-Pelvic Tilt nRMSE
 Pelvic Tilt DTW
 Vertical Force corr
 Timing_P3_L_ankle_pct

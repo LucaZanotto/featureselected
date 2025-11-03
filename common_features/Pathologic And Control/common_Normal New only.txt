@@ -1,0 +1,7 @@
+L-Ankle Power max
+R-Knee Flex-Extension Moment max
+R-Knee Power max
+Step width
+Vertical Force DTW
+Work_neg_L_knee
+Work_neg_R_hip

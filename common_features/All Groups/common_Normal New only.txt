@@ -1,0 +1,40 @@
+Ankle Dorsi-Plantarflex DTW
+Ankle Dorsi-Plantarflex Moment corr
+Ankle Dorsi-Plantarflex corr
+Foot Progression Angle corr
+Hip Ab-Adduction corr
+Hip Flex-Extension DTW
+Hip Flex-Extension Moment DTW
+Hip Power DTW
+Hip Rotation corr
+Imp_AP_brake_P2
+Imp_AP_prop_P1
+Knee Flex-Extension corr
+Knee Power DTW
+L-Ankle Dorsi-Plantarflex Moment max
+L-Ankle Power max
+L-Hip Flex-Extension Moment max
+L-Hip Power max
+L-Hip Rotation max
+L-Knee Flex-Extension Moment max
+Pelvic Rotation nRMSE
+Pelvic Tilt DTW
+R-Ankle Dorsi-Plantarflex Moment max
+R-Ankle Dorsi-Plantarflex max
+R-Foot Progression Angle min
+R-Hip Flex-Extension Moment max
+R-Hip Flex-Extension ROM
+R-Hip Flex-Extension at initial contact
+R-Hip Rotation ROM
+R-Hip Rotation max
+R-Knee Power max
+SI Double supp. Time
+SI Hip Flex-Extension ROM
+SI Stance Time
+SI Vertical Force max
+Step length DX % Heigth
+Step width
+Timing_P3_R_ankle_pct
+Work_neg_L_knee
+Work_neg_R_hip
+Work_pos_R_knee

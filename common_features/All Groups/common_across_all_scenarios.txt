@@ -1,0 +1,14 @@
+Ankle Dorsi-Plantarflex Moment corr
+Hip Flex-Extension Moment DTW
+Imp_AP_brake_P2
+L-Ankle Dorsi-Plantarflex Moment max
+L-Hip Flex-Extension Moment max
+L-Hip Power max
+R-Hip Flex-Extension Moment max
+R-Hip Flex-Extension ROM
+R-Hip Rotation ROM
+SI Double supp. Time
+SI Stance Time
+SI Vertical Force max
+Work_neg_L_knee
+Work_neg_R_hip
